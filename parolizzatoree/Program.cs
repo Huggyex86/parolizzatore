@@ -13,7 +13,7 @@ namespace parolizzatoree
         static string starterWord;
         static void Main(string[] args)
         {
-            Console.Write("Inserire qualcosa: ");
+            Console.Write("Quando vuoi lo terminiamo sto programma???: ");
             starterWord = Console.ReadLine().ToLower();
             Thread work = new Thread(worker);
             work.Start();
@@ -70,7 +70,7 @@ namespace parolizzatoree
                     catch { }
                 }
             }
-            Console.WriteLine("FINITO!");
+            Console.WriteLine("END!");
             Console.ReadLine();
         }
 

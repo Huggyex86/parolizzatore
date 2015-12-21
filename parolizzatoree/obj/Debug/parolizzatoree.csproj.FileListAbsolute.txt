@@ -4,3 +4,9 @@ c:\users\huggye\documents\visual studio 2013\Projects\parolizzatoree\parolizzato
 c:\users\huggye\documents\visual studio 2013\Projects\parolizzatoree\parolizzatoree\bin\Debug\parolizzatoree.pdb
 c:\users\huggye\documents\visual studio 2013\Projects\parolizzatoree\parolizzatoree\obj\Debug\parolizzatoree.exe
 c:\users\huggye\documents\visual studio 2013\Projects\parolizzatoree\parolizzatoree\obj\Debug\parolizzatoree.pdb
+C:\Users\Sourazou\Documents\GitHub\parolizzatore\parolizzatoree\bin\Debug\parolizzatoree.exe.config
+C:\Users\Sourazou\Documents\GitHub\parolizzatore\parolizzatoree\obj\Debug\parolizzatoree.exe
+C:\Users\Sourazou\Documents\GitHub\parolizzatore\parolizzatoree\obj\Debug\parolizzatoree.pdb
+C:\Users\Sourazou\Documents\GitHub\parolizzatore\parolizzatoree\bin\Debug\parolizzatoree.exe
+C:\Users\Sourazou\Documents\GitHub\parolizzatore\parolizzatoree\bin\Debug\parolizzatoree.pdb
+C:\Users\Sourazou\Documents\GitHub\parolizzatore\parolizzatoree\obj\Debug\parolizzatoree.csprojResolveAssemblyReference.cache
